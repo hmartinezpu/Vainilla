@@ -30,4 +30,6 @@ li{
     margin: 0 auto;
     height: 400px;
     background-color: blue;
+   display:flex;
+   flex-direction: row;
 }
