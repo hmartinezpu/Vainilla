@@ -1,9 +1,11 @@
-.helado{
-    width: 200px;
+.helados{
+    margin-left: 10px;
+    width: 100px;
 }
 nav{
     background-color: aqua;
 }
-body{
+body{ 
+    margin : 0px !important;
     background-color: seagreen;
 }
