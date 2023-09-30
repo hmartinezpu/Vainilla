@@ -17,13 +17,23 @@ body{
     display: flex;
     flex-direction: row;
     margin-right: 50px;
+    transition: .5s;
 }
+
+
 li{
     list-style: none;
   margin-right: 20px; 
   font-weight: 700; 
   
     color:red;
+    cursor: pointer;
+    transition-duration: .9s;
+}
+
+li:hover{
+    color: white;
+    font-size: 2em;
 }
 .perrito{
     width: 80%;
